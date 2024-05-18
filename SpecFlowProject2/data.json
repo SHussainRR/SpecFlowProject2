@@ -1,0 +1,6 @@
+{
+    "URL": "https://katalon-demo-cura.herokuapp.com/#appointment",
+    "xpathToAppointment": "//a[@id='btn-make-appointment']",
+    "id": "John Doe",
+    "password": "ThisIsNotAPassword"
+}
